@@ -1,2 +1,3 @@
-# windows-binaries
-📦 Packages repository containing the latest stable windows builds, used for the signing process 
+# Zen Browser Windows Binaries
+
+📦 Packages repository containing the latest stable Windows builds, used for the signing process.
